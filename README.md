@@ -27,6 +27,8 @@ Cancel anytime with ESC. When finished, you can open the destination folder, sta
 Detailed statistics
 Copied, skipped, ignored files, elapsed time, average speed and real percentage.
 
+Bilingual support (english and spanish)
+
 SCREENSHOTS
 
 <img width="728" height="593" alt="image" src="https://github.com/user-attachments/assets/e04e62f2-b3d3-4c3e-a32c-92ffc2cf552a" />
@@ -43,6 +45,8 @@ Windows 7 / 8 / 10 / 11
 
 Web: 
 [www.arwifi.com.ar/backuptool](https://www.arwifi.com.ar/backuptool)
+
+[Download](https://mega.nz/file/6FYlXCyS#lcJn9TiSn2oZip4y6yiFi7weF7ybA39XmoiyaErHBIA)
 
 
 
